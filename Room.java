@@ -1,3 +1,5 @@
+
+// where room method was implemented so that UI in the client can be created
 package server;
 import java.util.ArrayList;
 import java.util.Iterator;
